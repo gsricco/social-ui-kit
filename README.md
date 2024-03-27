@@ -5,7 +5,9 @@
  ```bash
  yarn add @gsricco/social-ui-kit
  ```
-
+```bash
+ pnpm i @gsricco/social-ui-kit
+ ```
 
   > [!NOTE]
 > - The link to find this package posted on NPM
