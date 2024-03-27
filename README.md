@@ -9,7 +9,7 @@
  pnpm i @gsricco/social-ui-kit
  ```
 
-  > [!NOTE]
+  > [!NOTE!]
 > - The link to find this package posted on NPM
     [https://npmjs.com/package/@gsricco/social-ui-kit](https://npmjs.com/package/@gsricco/social-ui-kit)
 > - Storybook, here you can check all components
